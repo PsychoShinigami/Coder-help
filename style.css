@@ -17,7 +17,6 @@ input{
     color : rgb(62, 131, 131);
 }
 
-
 .main-container{
     display : flex;
     flex-direction : column;
